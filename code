@@ -1,0 +1,768 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en">
+<html dir="ltr" lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="ltr en no-js"> <!--<![endif]-->
+<head>
+	<script type='text/javascript'>//<![CDATA[
+(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement);
+//]]></script>
+	<title>IMBUTO Foundation</title>
+	
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ 
+   
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="all,follow">
+    
+    <link rel="stylesheet" href="assets/vendor/bootstrap/css/bootstrap.min.css">
+	
+	
+	
+	  
+	<link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
+	<link rel="icon" href="assets/img/favicon.png" type="image/x-icon">
+	
+	
+   
+
+    <link href="assets/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="assets/lib/animate/animate.min.css" rel="stylesheet">
+    <link href="assets/lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+    <link href="assets/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="assets/lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="assets/css/style.default.css?t=9" id="theme-stylesheet">
+    
+    <link rel="stylesheet" href="assets/css/custom.css?t=106"></head>
+
+<body>
+
+
+ 
+	
+	<style type="text/css">
+	.celebrate{
+	color: #fff;
+	padding: 5px;
+	margin-bottom: 0;
+	background: url(IMG/rubon92.jpg) center top repeat;
+	border-radius: 5px;
+	}
+	#topbar .topbar-info li.celebrate a:hover{color: #fff;}
+	div.celebrate a:hover, div.celebrate a{color: #fff;
+		margin: 5px;
+		/* padding: 5px; */
+		display: inline-block;
+		border: 1px solid #fff;
+    padding: 5px 15px;
+    border-radius: 5px 15px;
+	}
+	</style>
+ <section id="topbar" class="d-flex align-items-center fixed-top">
+    <div class="container d-flex justify-content-between">
+      <div class="topbar-info align-items-center d-none d-lg-flex ">
+        <li> <span>Engage</span></li>
+         <li> <span>Educate</span></li>
+         <li> <span>Empower</span></li>
+        
+      </div>
+      <div class="topbar-info align-items-center language-d d-lg-flex ">
+        
+        <li> <a href="./rw/"><script data-pagespeed-no-defer type="text/javascript">//<![CDATA[
+(function(){var g=this;function h(b,d){var a=b.split("."),c=g;a[0]in c||!c.execScript||c.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===d?c[e]?c=c[e]:c=c[e]={}:c[e]=d};function l(b){var d=b.length;if(0<d){for(var a=Array(d),c=0;c<d;c++)a[c]=b[c];return a}return[]};function m(b){var d=window;if(d.addEventListener)d.addEventListener("load",b,!1);else if(d.attachEvent)d.attachEvent("onload",b);else{var a=d.onload;d.onload=function(){b.call(this);a&&a.call(this)}}};var n;function p(b,d,a,c,e){this.h=b;this.j=d;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=c;this.b={};this.a=[];this.c={}}function q(b,d){var a,c,e=d.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=d.offsetWidth&&0>=d.offsetHeight)a=!1;else{c=d.getBoundingClientRect();var f=document.body;a=c.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);c=c.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+c;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&c<=b.g.width)}a&&(b.a.push(e),b.c[e]=!0)}p.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&q(this,b)};h("pagespeed.CriticalImages.checkImageForCriticality",function(b){n.checkImageForCriticality(b)});h("pagespeed.CriticalImages.checkCriticalImages",function(){r(n)});function r(b){b.b={};for(var d=["IMG","INPUT"],a=[],c=0;c<d.length;++c)a=a.concat(l(document.getElementsByTagName(d[c])));if(0!=a.length&&a[0].getBoundingClientRect){for(c=0;d=a[c];++c)q(b,d);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(d=0!=b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),c=1;c<b.a.length;++c){var e=","+encodeURIComponent(b.a[c]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(t())),131072>=a.length+e.length&&(a+=e),d=!0);u=a;if(d){c=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(k){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(v){}}f&&(f.open("POST",c+(-1==c.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}function t(){var b={},d=document.getElementsByTagName("IMG");if(0==d.length)return{};var a=d[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var c=0;a=d[c];++c){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var u="";h("pagespeed.CriticalImages.getBeaconData",function(){return u});h("pagespeed.CriticalImages.Run",function(b,d,a,c,e,f){var k=new p(b,d,a,e,f);n=k;c&&m(function(){window.setTimeout(function(){r(k)},0)})});})();pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','https://www.imbutofoundation.org/','PHxYm8v4E1',true,false,'lZZDIP3BDZA');
+//]]></script><img src="assets/img/rwanda.png" height="14px" width="14px" data-pagespeed-url-hash="2375198852" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"><span>Kinyarwanda</span></a></li>
+      </div>
+      
+      
+    </div>
+  </section>	<header class="header" id="header">
+      
+      <nav class="navbar navbar-expand-lg navbar-light   border-gray  primary_navbar">
+        <div class="container d-flex align-items-center justify-content-beween pt-4 ">
+          <a class="navbar-brand" href=".">
+		  
+		  <img src="IMG/logo/siteon0.png?1673294048" alt="Imbuto Foundation" data-pagespeed-url-hash="4156999320" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		 
+		  </a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+          
+
+          <div class="collapse navbar-collapse py-3 py-lg-0 border-bottom primary_nav" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto" id="myMenu">
+              <li class="nav-item menux active"><a class="nav-link pl-lg-0" href="./">Home <span class="sr-only">(current)</span></a></li>
+              <li class="nav-item menux"><a class="nav-link" href="our-founder/">Our Founder </a></li>
+              <li class="nav-item dropdown menux">
+			  
+				<a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Who we are</a>
+                
+				<div class="dropdown-menu border-0 shadow-sm" aria-labelledby="navbarDropdown">
+				
+					<a class="dropdown-item text-dark" href="who-we-are/vision-mission-and-values/">Mission, Vision, Values</a>
+				
+					<a class="dropdown-item text-dark" href="who-we-are/our-board/">Our Board</a>
+				
+					<a class="dropdown-item text-dark" href="who-we-are/our-management-team/">Our Management team</a>
+				
+					<a class="dropdown-item text-dark" href="who-we-are/our-strategy/">Our Strategy</a>
+				
+					<a class="dropdown-item text-dark" href="who-we-are/coverage/">Scope of interventions</a>
+					
+				</div>
+				
+				
+				
+				
+              </li>
+			  <li class="nav-item dropdown menux">
+				
+			  <a class="nav-link dropdown-toggle" id="navbarDropdown" href="what-we-do/" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">What we do</a>
+               
+				<div class="dropdown-menu border-0 shadow-sm" aria-labelledby="navbarDropdown">
+				
+					<a class="dropdown-item text-dark" href="what-we-do/education/">Education  Programmes</a>
+				
+					<a class="dropdown-item text-dark" href="what-we-do/health-projects/">Health  Programmes</a>
+				
+					<a class="dropdown-item text-dark" href="what-we-do/youth-empowerment-mentorship/">Youth Empowerment  Programmes</a>
+					
+				</div>
+				
+              </li>
+              
+              <li class="nav-item menux"><a class="nav-link" href="our-impact/">Our Impact </a></li>
+              
+			  
+			  
+			  
+			    <li class="nav-item dropdown menux">
+				
+			  <a class="nav-link dropdown-toggle" id="navbarDropdown" href="press-room/" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Press Room</a>
+               
+				<div class="dropdown-menu border-0 shadow-sm" aria-labelledby="navbarDropdown">
+				
+					<a class="dropdown-item text-dark" href="press-room/our-stories/">Our stories </a>
+				
+					<a class="dropdown-item text-dark" href="press-room/newsletters/">Newsletters</a>
+				
+					<a class="dropdown-item text-dark" href="press-room/publications/">Publications</a>
+				
+					<a class="dropdown-item text-dark" href="press-room/events-announcements/">Events / Announcements</a>
+				
+					<a class="dropdown-item text-dark" href="press-room/tenders/">Tenders</a>
+					
+				</div>
+				
+              </li>
+			  
+              
+            <li class="nav-item menux"><a class="nav-link" href="get-involved-65/">Get involved </a></li>
+			<li class="nav-item"><a class="nav-link" href="Contact-Us/">Contact </a></li>
+              
+            </ul>
+            
+              
+			
+            
+          </div>
+ 
+        </div>
+      </nav>
+      
+     
+	
+	 <nav class="navbar navbar-expand-lg navbar-light second_navbar bg-white">
+        <div class="container">
+          <div class="collapse navbar-collapse py-3 py-lg-0" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto second_nav">
+              
+              <li class="nav-item mr-2"><a class=" btn btn-faces btn-sm" href="https://faces.imbutofoundation.org/" target="_blank">Faces of Imbuto</a></li>
+              <li class="nav-item mr-2"><a class=" btn btn-cyrwa btn-sm" href="../ycc&cyrwa" target="_blank">YCC & CYRWA </a></li>
+              <li class="nav-item mr-2"><a class="btn btn-iacc btn-sm" href="../iaccelerator" target="_blank">iAccelerator </a></li>
+              
+			  <li class="nav-item mr-2"><a class="btn btn-art btn-sm" href="https://artrwanda.rw/ " target="_blank">Art Rwanda-Ubuhanzi</a></li>
+			  <li class="nav-item"><a class=" btn btn-faces btn-sm" href="https://imbutofoundation.org/imali/" target="_blank">Imali Agribusiness</a></li>
+
+            </ul>
+            
+          </div>
+        </div>
+      </nav>
+	  
+	  
+	  
+	  
+    </header>
+	
+	<script type="text/javascript">$(function(){var menuContainer=document.getElementById("myMenu");var menus=menuContainer.getElementsByClassName("menux");for(var i=0;i<menus.length;i++){menus[i].addEventListener("click",function(){var current=document.getElementsByClassName("active");current[0].className=current[0].className.replace(" active","");this.className+=" active";});}});</script>	<section id="intro">
+    <div class="intro-container">
+      <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
+
+        <ol class="carousel-indicators"></ol>
+
+        <div class="carousel-inner" role="listbox">
+		
+          
+		   <div class="carousel-item active">
+              <div id="headers">
+                <div class="overlay"></div>
+                <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                  <source src="IMG/mp4/sequence_01.mp4" type="video/mp4">
+                </video>
+                <div class="container h-100">
+                  <div class="d-flex text-center h-100">
+                    <div class="my-auto w-100 text-white">
+                      
+                        <h2 class="wow bounceInDown">Engage. Educate. Empower.</h2>
+                       
+                           <a href="what-we-do/" class="btn-get-started-bg  ">Explore</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+          </div>
+		
+		
+          <div class="carousel-item">
+            <div class="carousel-background"><img src="IMG/logo/arton329.jpg?1662998267" alt="General Assembly | Kigali 17 December 2019" class="img-fluid" data-pagespeed-url-hash="3220624078" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></div>
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2>General Assembly | Kigali 17 December 2019</h2>
+              
+                   <a href="https://imbutofoundation.org/web/GET-INVOLVED-65/" class="btn-get-started-bg scrollto">Get Involved</a>
+                 
+                
+              </div>
+            </div>
+          </div>
+		  
+          <div class="carousel-item">
+            <div class="carousel-background"><img src="IMG/logo/arton330.jpg?1614247547" alt="iAccelerator Phase 2 Pitching | Kigali, 12 December 2019" class="img-fluid" data-pagespeed-url-hash="1288939271" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></div>
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2>iAccelerator Phase 2 Pitching | Kigali, 12 December 2019</h2>
+              
+                   <a href="https://imbutofoundation.org/web/GET-INVOLVED-65/" class="btn-get-started-bg scrollto">Get Involved</a>
+                 
+                
+              </div>
+            </div>
+          </div>
+		  
+          <div class="carousel-item">
+            <div class="carousel-background"><img src="IMG/logo/arton332.jpg?1614272668" alt="Imali project" class="img-fluid" data-pagespeed-url-hash="801703385" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></div>
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2>Imali project</h2>
+              
+                   <a href="https://imbutofoundation.org/web/GET-INVOLVED-65/" class="btn-get-started-bg scrollto">Get Involved</a>
+                 
+                
+              </div>
+            </div>
+          </div>
+		  
+		
+
+         
+
+
+        </div>
+
+        <a class="carousel-control-prev" href="#introCarousel" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon fa fa-chevron-left" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+
+        <a class="carousel-control-next" href="#introCarousel" role="button" data-slide="next">
+          <span class="carousel-control-next-icon fa fa-chevron-right" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+
+      </div>
+    </div>
+  </section>	
+	<center><div class="celebrate"> <a href="https://imbutofoundation.org/notes/">Celebrate with us!</a></div></center>
+    <section class="info" id="info">
+		
+      <div class="container bg-white radius-15">
+        <div class="row py-3 hr">
+		 
+          <div class="col-lg-4 mb-3 mb-lg-0">
+            <div class="px-1">
+             
+              <a href="what-we-do/education/"><div class="program">
+                <img src="IMG/logo/rubon14.jpg?1623605263" alt="Education " class="img-fluid" data-pagespeed-url-hash="11990251" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                <div class="content">
+                  <h4 class=" mb-0 font-weight-normal">Education </h4>
+                  <p class=" h5 text-primary">Programmes</p>
+                </div>
+                <div class="program-overlay"></div>
+              </div></a> 
+            </div>
+          </div>
+		   
+          <div class="col-lg-4 mb-3 mb-lg-0">
+            <div class="px-1">
+             
+              <a href="what-we-do/youth-empowerment-mentorship/"><div class="program">
+                <img src="IMG/logo/rubon15.jpg?1623605426" alt="Youth Empowerment " class="img-fluid" data-pagespeed-url-hash="1479751391" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                <div class="content">
+                  <h4 class=" mb-0 font-weight-normal">Youth Empowerment </h4>
+                  <p class=" h5 text-primary">Programmes</p>
+                </div>
+                <div class="program-overlay"></div>
+              </div></a> 
+            </div>
+          </div>
+		   
+          <div class="col-lg-4 mb-3 mb-lg-0">
+            <div class="px-1">
+             
+              <a href="what-we-do/health-projects/"><div class="program">
+                <img src="IMG/logo/rubon7.jpg?1623605304" alt="Health " class="img-fluid" data-pagespeed-url-hash="639005883" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                <div class="content">
+                  <h4 class=" mb-0 font-weight-normal">Health </h4>
+                  <p class=" h5 text-primary">Programmes</p>
+                </div>
+                <div class="program-overlay"></div>
+              </div></a> 
+            </div>
+          </div>
+		  
+		  
+          </div>
+        </div>
+      </div>
+    </section>
+	
+	
+	
+   <section id="imb_about">
+     <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="imb_content">
+            <h5 class="text-uppercase lined">Who we are</h5>
+            <div class="imb_desc">
+				In 2001, Protection and Care of Families against HIV/AIDS (PACFA) was established as a project under the Office of the First Lady, to mobilize resources desperately needed in the fight against HIV/AIDS. This initiative primarily focused on providing a holistic approach for dignifed lives of families, including women deliberately infected with HIV/AIDS during the Genocide against the Tutsi.&nbsp;(...)
+				<p class="linkp"><a href="who-we-are/">Read more +</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="imb_content">
+            <h5 class="text-uppercase lined">Scope of interventions</h5>
+			
+            <div class="imb_descx">
+              <img src="IMG/logo/arton364.jpg?1625515695" class="img-fluid image" alt="Scope of Interventions Map" data-pagespeed-url-hash="3782275616" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+			<div class="middle">
+				<div class="text"><a href="who-we-are/coverage/" class="ion ion-android-open"></a></div>
+			</div>
+            </div>
+			
+          </div>
+        </div>
+      </div>
+     </div>
+	  <img src="assets/img/pattern2.png" alt="Imbuto foundation" width="100%" data-pagespeed-url-hash="2805205279" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+   </section>
+   
+  
+   
+   
+   
+
+
+  <section id="news" class="news-section">
+        <div class="container">
+		<div class="row ">
+            <div class="col-md-8 pb-3">
+                   
+                <h5 class="text-uppercase lined">Ejo si Kera (Tv Show)</h5>
+                <div class="imb-video">
+				<iframe width="100%" height="475" src="https://www.youtube.com/embed/videoseries?list=PLGPfAy5ltB-hPqHRVst2waZxATnUrssK_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+
+
+                    
+                </div>
+                <div class="col-md-4">
+                 <div class="single-sidebar-widget tags">   
+                    <h3 class="title">Follow us - Twitter</h3>  
+                    <div class="card">
+                        <div class="card-body">
+                        <a class="twitter-timeline" href="https://twitter.com/Imbuto" data-height="330">Tweets by Imbuto foundation</a>
+                            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" type="text/javascript"></script>
+                        </div>
+                    </div>
+                     <h3 class="title">Stay connected</h3>
+                     <div class="d-lg-flex social-links align-items-center">
+                        <a href="https://twitter.com/Imbuto" class="twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+						<a href="https://www.instagram.com/imbutofoundation/" class="instagram" target="_blank"><i class="fa fa-instagram"></i></a>
+                        <a href="https://www.facebook.com/pages/Imbuto-Foundation/204014500096?fref=ts" class="facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+                        <a href="https://www.flickr.com/photos/jeannette_kagame/albums" class="flickr" target="_blank"><i class="fa fa-flickr"></i></a>
+                        <a href="https://www.youtube.com/user/myImbuto" class="youtube" target="_blank"><i class="fa fa-youtube"></i></a>
+                      </div>
+                </div>
+              </div>
+            </div>
+        </div>
+    </section>
+	
+	
+	
+
+	<section id="information">
+    <div class="container">
+	
+       <h2 class="h5 latest lined mb-4 pt-0 text-white ">Youth Corner</h2>
+	   <div class="info_desc"><p>This platform was designed to give young people access to accurate information about sexual and reproductive health using digital technology.</p></div>
+	
+      <div class="row">
+        <div class="col-md-4">
+          <div class="category bg-white">
+			<img src="assets/img/icon1.png" alt="Imbuto Foundation" data-pagespeed-url-hash="2855904377" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+              <h1 class=" h5 text-primary">Puberty</h1>
+			  <a href="http://www.m4rh.rw/topics/puberty/?lang=en" target="_blank" class="  btn btn-outline-primary btn-sm">Learn more </a>
+           
+             
+          </div>
+          
+         
+        </div>
+        <div class="col-md-4">
+          <div class="category bg-success">
+            <img src="assets/img/icon5.png" alt="Imbuto Foundation" data-pagespeed-url-hash="4033904061" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+              <h1 class=" h5 text-white">Sex and Pregnancy</h1>
+           
+             <a href="http://www.m4rh.rw/topics/sex-and-pregnancy/?lang=en" target="_blank" class="btn-get-started btn btn-sm ">Learn more</a>
+          </div>
+
+         
+        </div>
+        <div class="col-md-4">
+          <div class="category bg-danger">
+            <img src="assets/img/icon3.png" alt="Imbuto Foundation" data-pagespeed-url-hash="3444904219" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+              <h1 class=" h5 text-white">HIV</h1>
+            
+             <a href="http://www.m4rh.rw/topics/hiv/?lang=en" target="_blank" class=" btn-get-started btn  btn-sm ">Learn more</a>
+          </div>
+          
+         
+        </div>
+        <div class="col-md-4">
+          <div class="category bg-info">
+			<img src="assets/img/icon4.png" alt="Imbuto Foundation" data-pagespeed-url-hash="3739404140" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+              <h1 class=" h5 text-white">Sexually transmitted infections</h1>
+           
+             <a href="http://www.m4rh.rw/topics/sexually-transmitted-infections/?lang=en" target="_blank" class="btn-get-started btn  btn-sm">Learn more</a>
+          </div>
+          
+         
+        </div>
+        
+        
+        <div class="col-md-4">
+          <div class="category bg-warning">
+				<img src="assets/img/icon2.png" alt="Imbuto Foundation" data-pagespeed-url-hash="3150404298" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+              <h1 class=" h5 text-white">Pregnancy Prevention Methods</h1>
+           
+             <a href="http://www.m4rh.rw/topics/pregnancy-prevention-methods/?lang=en" target="_blank" class="btn-get-started btn  btn-sm">Learn more</a>
+          </div>
+          
+         
+        </div>
+      </div>
+        
+    </div>
+    
+</section>
+	
+	
+
+	<section id="clients" class="wow fadeInUp">
+      <div class="container">
+
+        <h2 class="h5 latest lined mb-4 pt-5 ">Our Partners</h2>
+		
+        <div class="owl-carousel clients-carousel">
+		
+          <a href="www.gov.rw/" target="_blank">
+		  
+		  <img src="local/cache-gd2/8d/dc9a09f5f2733c98d25ec4aace0660.jpg?1687788505" alt="" data-pagespeed-url-hash="3149097152" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="www.rw.one.un.org/" target="_blank">
+		  
+		  <img src="local/cache-gd2/bb/ed308fafef6b1dd19afc29332e1c78.jpg?1687788505" alt="" data-pagespeed-url-hash="1732886421" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="http://bk.rw/" target="_blank">
+		  
+		  <img src="local/cache-gd2/43/77983a6023f9bb3839a344a507642b.jpg?1687788505" alt="" data-pagespeed-url-hash="1219571325" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="www.oafla.org/" target="_blank">
+		  
+		  <img src="local/cache-gd2/2e/22f3c878a72440c98f90ff026b2a25.png?1687788505" alt="" data-pagespeed-url-hash="2442974644" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="" target="_blank">
+		  
+		  <img src="local/cache-gd2/59/02c8084c00d7f0ba440da2a7bb2ea5.jpg?1687788505" alt="" data-pagespeed-url-hash="2322401419" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="https://www.gov.uk/government/world/rwanda" target="_blank">
+		  
+		  <img src="local/cache-gd2/02/c59e9b9acaa62653131cc464b5623d.jpg?1687788505" alt="" data-pagespeed-url-hash="2290131946" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="https://www.packard.org/" target="_blank">
+		  
+		  <img src="local/cache-gd2/8a/2598a512ac7596a57d91d39da7b1f3.jpg?1687788505" alt="" data-pagespeed-url-hash="177668751" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="www.segalfamilyfoundation.org/" target="_blank">
+		  
+		  <img src="local/cache-gd2/85/08aea9d3a5dcc64e84d29b1fee11e7.jpg?1687788505" alt="" data-pagespeed-url-hash="2017024644" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="www.theglobalfund.org/" target="_blank">
+		  
+		  <img src="local/cache-gd2/51/75c7c698229c28312d0932970a73f0.jpg?1687788505" alt="" data-pagespeed-url-hash="2622449686" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="http://higherlifefoundation.com/" target="_blank">
+		  
+		  <img src="local/cache-gd2/99/d0da4fb43b304211db652389269288.jpg?1687788505" alt="" data-pagespeed-url-hash="2146319628" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="" target="_blank">
+		  
+		  <img src="local/cache-gd2/16/5f2f8ffa82a0b63336c8b6c6de9593.jpg?1687788505" alt="" data-pagespeed-url-hash="1014519451" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="www.ihstowers.com/" target="_blank">
+		  
+		  <img src="local/cache-gd2/2b/c374a4d22c38edec6783e2a18c401b.jpg?1687788505" alt="" data-pagespeed-url-hash="213570073" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="https://www.ikeafoundation.org/" target="_blank">
+		  
+		  <img src="local/cache-gd2/73/a78fa1de64484fe00b7ca67c2033b7.jpg?1687788505" alt="" data-pagespeed-url-hash="228963933" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="www.mtn.co.rw/" target="_blank">
+		  
+		  <img src="local/cache-gd2/e9/8094f62050c69007f9d027f2bd4e4a.jpg?1687788505" alt="" data-pagespeed-url-hash="970086814" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="" target="_blank">
+		  
+		  <img src="local/cache-gd2/df/bba73b28576e8e48c60f649b66332a.jpg?1687788505" alt="" data-pagespeed-url-hash="3153781637" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="https://uok.ac.rw" target="_blank">
+		  
+		  <img src="local/cache-gd2/5a/dc424dbd4929d9a9878d51b136aeba.png?1687788505" alt="" data-pagespeed-url-hash="2363136963" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="" target="_blank">
+		  
+		  <img src="local/cache-gd2/02/f5bb84d55c3c11c095805e68361a27.jpg?1687788505" alt="" data-pagespeed-url-hash="484263328" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="" target="_blank">
+		  
+		  <img src="local/cache-gd2/09/11d25e263236b8830a3b3d70427f36.jpg?1687788505" alt="" data-pagespeed-url-hash="654421505" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="" target="_blank">
+		  
+		  <img src="local/cache-gd2/3e/c716b354ab3eadf460d1d1b2de7339.jpg?1687788505" alt="" data-pagespeed-url-hash="1478306113" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="www.richardsrwanda.org/" target="_blank">
+		  
+		  <img src="local/cache-gd2/e6/004a1a3c395e1c997a240b1126e76f.jpg?1687788505" alt="" data-pagespeed-url-hash="260006963" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="" target="_blank">
+		  
+		  <img src="local/cache-gd2/fc/2e6b77d9b991c8e1d7dce7a2f624d3.png?1687788505" alt="" data-pagespeed-url-hash="1850015602" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="https://www.imbutofoundation.org/" target="_blank">
+		  
+		  <img src="local/cache-gd2/3f/80928aed9676469173f6a4a4a838ee.jpg?1687788505" alt="" data-pagespeed-url-hash="3844657425" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="https://plan-international.org/rwanda" target="_blank">
+		  
+		  <img src="local/cache-gd2/a4/e52733c76fc7973007474d2452a785.png?1687788505" alt="" data-pagespeed-url-hash="2427183402" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="" target="_blank">
+		  
+		  <img src="local/cache-gd2/46/0a031068aa0ae982393ceb5c49c8a8.jpg?1687788505" alt="" data-pagespeed-url-hash="1692773319" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="" target="_blank">
+		  
+		  <img src="local/cache-gd2/f6/f073f8dfc48b1df4407554ec254758.jpg?1687788505" alt="" data-pagespeed-url-hash="1025944989" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="" target="_blank">
+		  
+		  <img src="local/cache-gd2/89/5b820bd6caab9c97d53fd8423862fe.jpg?1687788505" alt="" data-pagespeed-url-hash="244873212" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="" target="_blank">
+		  
+		  <img src="local/cache-gd2/9d/cca6b0f8620b22cc3512072d4dd6b4.png?1687788505" alt="" data-pagespeed-url-hash="1979891803" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="" target="_blank">
+		  
+		  <img src="local/cache-gd2/e8/cbc21dcc912df988bc50ba91a9b80c.jpg?1687788505" alt="" data-pagespeed-url-hash="3037295556" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="" target="_blank">
+		  
+		  <img src="local/cache-gd2/06/d69575b933974db9851daa407a23f1.jpg?1687788505" alt="" data-pagespeed-url-hash="1837998831" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="" target="_blank">
+		  
+		  <img src="local/cache-gd2/c8/5a3e6d0728a31bdd601137b2d7ff16.jpg?1687788505" alt="" data-pagespeed-url-hash="2669688498" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="https://bpn.rw/en" target="_blank">
+		  
+		  <img src="local/cache-gd2/c0/8442d64c4306c4baebe2ae338e8a9e.png?1687788505" alt="" data-pagespeed-url-hash="1429256864" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="https://rwanda.dotrust.org/" target="_blank">
+		  
+		  <img src="local/cache-gd2/de/381f802104913efbff61f363c3dd23.jpg?1687788505" alt="" data-pagespeed-url-hash="1890668639" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+          <a href="https://www.vivoenergy.com/Where-we-Operate/Rwanda/" target="_blank">
+		  
+		  <img src="local/cache-gd2/03/0bef9a6def262bddc21d5095372e52.png?1687788505" alt="" data-pagespeed-url-hash="470215175" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+		  
+		  </a>
+		  
+        </div>
+
+      </div>
+    </section>	<footer class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4 mb-4 mb-lg-0>
+             <a class=" navbar-brand" href="#"><img src="assets/img/logo22.png" alt="Imbuto Foundation" style=" padding-left: 10px;" data-pagespeed-url-hash="4131035632" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
+            <ul class="list-inline mb-0"> 
+              <li class="list-inline-item"><a class="social-link" href="https://www.facebook.com/pages/Imbuto-Foundation/204014500096?fref=ts"><i class="fa fa-facebook-f"></i></a></li>
+              <li class="list-inline-item"><a class="social-link" href="https://twitter.com/Imbuto"><i class="fa fa-twitter"></i></a></li>
+              <li class="list-inline-item"><a class="social-link" href="https://www.flickr.com/photos/jeannette_kagame/albums"><i class="fa fa-flickr"></i></a></li>
+              <li class="list-inline-item"><a class="social-link" href="https://www.youtube.com/user/myImbuto"><i class="fa fa-youtube"></i></a></li>
+			  <li class="list-inline-item"><a class="social-link" href="https://www.instagram.com/imbutofoundation/"><i class="fa fa-instagram"></i></a></li>
+            </ul>
+          </div>
+          <div class="col-lg-4 mb-4 mb-lg-0  d-none d-lg-block">
+          <h2 class="h5 text-white lined mb-4">PRESS ROOM</h2> 
+            <div class="d-flex press-list">
+              <ul class="list-unstyled d-inline-block mr-4 mb-0">
+			   <li class="mb-2"><a href="press-room/our-stories/"><i class="fa fa-circle-thin pr-2"></i>Our stories </a></li>
+			   <li class="mb-2"><a href="press-room/newsletters/"><i class="fa fa-circle-thin pr-2"></i>Newsletters</a></li>
+			   <li class="mb-2"><a href="press-room/publications/"><i class="fa fa-circle-thin pr-2"></i>Publications</a></li>
+                <li class="mb-2"><a href="press-room/events-announcements/"><i class="fa fa-circle-thin pr-2"></i>Events / Announcements</a></li>
+				
+				
+                
+                
+                
+              </ul> 
+             
+            </div>
+          </div>
+          <div class="col-lg-4  d-none d-lg-block">
+            <h2 class="h5 text-white lined mb-4">SUBSCRIBE TO OUR NEWSLETTER</h2>
+            <form action="//imbutofoundation.us9.list-manage.com/subscribe/post?u=673365452241dd21e38e03d15&amp;id=31e85131a4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="contact-form validate" target="_blank">
+            <div class="input-group mb-3">
+			<input type="text" name="FNAME" class="form-control text-muted bg-none border-success subscriber_fname" required placeholder="Full Name">
+				<input type="hidden" name="LNAME" class="form-control text-muted bg-none border-primary subscriber_fname" placeholder="Lastname">
+              <input class="form-control text-muted bg-none border-success" type="text" name="EMAIL" placeholder="Email Address" class="subscriber_email" required>
+              <div class="input-group-append">
+			  
+                <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success"><i class="fa fa-paper-plane"></i></button>
+              </div>
+            </div>
+			</form>
+          </div>
+        </div>
+      </div> 
+	  <img src="assets/img/pattern2.png" alt="Imbuto foundation" width="100%" data-pagespeed-url-hash="2805205279" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+      <div class="copyrights">       
+        <div class="container text-center py-2">
+          <p class="mb-0 text-white">Copyright © 2023. Imbuto Foundation. All rights reserved.</p>
+        </div>
+      </div>
+    </footer>	
+  <script src="assets/lib/jquery/jquery.min.js" type="text/javascript"></script>
+  <script src="assets/lib/jquery/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="assets/lib/bootstrap/js/bootstrap.bundle.min.js" type="text/javascript"></script>
+  <script src="assets/lib/easing/easing.min.js" type="text/javascript"></script>
+  <script src="assets/lib/superfish/hoverIntent.js" type="text/javascript"></script>
+  <script src="assets/lib/superfish/superfish.min.js" type="text/javascript"></script>
+  <script src="assets/lib/wow/wow.min.js" type="text/javascript"></script>
+  <script src="assets/lib/waypoints/waypoints.min.js" type="text/javascript"></script>
+  <script src="assets/lib/counterup/counterup.min.js" type="text/javascript"></script>
+  <script src="assets/lib/owlcarousel/owl.carousel.min.js" type="text/javascript"></script>
+  <script src="assets/lib/isotope/isotope.pkgd.min.js" type="text/javascript"></script>
+  <script src="assets/lib/lightbox/js/lightbox.min.js" type="text/javascript"></script>
+  <script src="assets/lib/touchSwipe/jquery.touchSwipe.min.js" type="text/javascript"></script>
+
+
+
+
+
+
+    
+    <script src="assets/js/front.js" type="text/javascript"></script>	
+<script src="assets/founder/js/main.js" type="text/javascript"></script>
+</body>
+</html>
